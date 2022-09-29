@@ -1,3 +1,6 @@
+
+
+{
 Console.WriteLine("Welcome to the worlds hardest quiz);
                   
             var moscow
@@ -37,3 +40,4 @@ Console.WriteLine("Welcome to the worlds hardest quiz);
                     Console.WriteLine("incorrect");
                     break;
             }
+                  }
