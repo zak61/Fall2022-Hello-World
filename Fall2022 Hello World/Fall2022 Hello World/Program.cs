@@ -1,7 +1,8 @@
 
 
 {
-Console.WriteLine("Welcome to the worlds hardest quiz);
+Console.WriteLine("Welcome to the worlds hardest quiz)
+                  
                   
             var moscow
             var mogdishu
